@@ -40,7 +40,7 @@ DOWNLOAD_TEMPLATE(${BEAST_LIBRARY_URL}
 
 UNPACK_AND_INSTALL_TEMPLATE(
  "${CMAKE_CURRENT_BINARY_DIR}/beast-library-1.1.tar.gz" 
- beast-library-1.0 )
+ beast-library-1.1 )
 
 # according to http://www.cmake.org/pipermail/cmake/2011-November/047137.html it's better to put this in the end
 INCLUDE(CPack)
