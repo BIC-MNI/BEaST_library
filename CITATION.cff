@@ -1,0 +1,28 @@
+# Citation metadata for BEaST_library (Citation File Format, https://citation-file-format.github.io/).
+# The author list comes from the commit history and from the history comments in the files.
+
+cff-version: 1.2.0
+title: BEaST_library
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Vladimir
+    family-names: Fonov
+    email: vladimir.fonov@gmail.com
+    affiliation: McGill University
+    orcid: "https://orcid.org/0000-0003-3402-7749"
+  - given-names: D. Louis
+    family-names: Collins
+    affiliation: McGill University
+    orcid: "https://orcid.org/0000-0002-8432-7021"
+repository-code: "https://github.com/BIC-MNI/BEaST_library"
+abstract: >-
+  Installer for the library of manually segmented brain masks that BEaST uses.
+keywords:
+  - MINC
+  - medical imaging
+  - neuroimaging
+  - MRI
+  - brain extraction
+license-url: "https://github.com/BIC-MNI/BEaST_library/blob/master/COPYING.txt"
